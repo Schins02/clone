@@ -6,12 +6,6 @@
 //  Copyright (c) 2015 John Schindler. All rights reserved.
 //
 
-//TODO
-//header frame
-//
-//
-//
-//
 
 #import "PlacesTableViewController.h"
 #import "Flickrfetcher.h"
@@ -50,6 +44,12 @@
             results = [NSJSONSerialization JSONObjectWithData:data options:0 error:&err];
         else
             NSLog(@"data from flickr is null");
+        
+        for(id key in results){
+            NSLog(@"Key: %@", key);
+            NSLog(@"Value: %@", [results valueForKey:key]);
+        }
+            
         
         NSArray *placeInfo;
         if(results)

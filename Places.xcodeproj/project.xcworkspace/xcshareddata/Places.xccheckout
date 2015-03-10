@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BDEC78B1-61C9-4165-8F50-423BB05F6B40</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Places</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FD13E33DFEC0C26477CABDE8D435A5F7B06F1092</key>
+		<string>https://github.com/Schins02/clone.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Places.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FD13E33DFEC0C26477CABDE8D435A5F7B06F1092</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Schins02/clone.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FD13E33DFEC0C26477CABDE8D435A5F7B06F1092</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FD13E33DFEC0C26477CABDE8D435A5F7B06F1092</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Places</string>
+		</dict>
+	</array>
+</dict>
+</plist>

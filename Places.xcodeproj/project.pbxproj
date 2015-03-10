@@ -19,6 +19,7 @@
 		A47F5BD01AA6A2020009B059 /* Place.m in Sources */ = {isa = PBXBuildFile; fileRef = A47F5BCF1AA6A2020009B059 /* Place.m */; };
 		A47F5BD61AA78D190009B059 /* UIColor+FlatUI.m in Sources */ = {isa = PBXBuildFile; fileRef = A47F5BD51AA78D190009B059 /* UIColor+FlatUI.m */; };
 		A47F5BD91AA7E4640009B059 /* ImageListTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A47F5BD81AA7E4640009B059 /* ImageListTableViewController.m */; };
+		A4EC9B691AAA446200119687 /* ImageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A4EC9B681AAA446200119687 /* ImageViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,8 @@
 		A47F5BD51AA78D190009B059 /* UIColor+FlatUI.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+FlatUI.m"; sourceTree = "<group>"; };
 		A47F5BD71AA7E4640009B059 /* ImageListTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImageListTableViewController.h; sourceTree = "<group>"; };
 		A47F5BD81AA7E4640009B059 /* ImageListTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImageListTableViewController.m; sourceTree = "<group>"; };
+		A4EC9B671AAA446200119687 /* ImageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImageViewController.h; sourceTree = "<group>"; };
+		A4EC9B681AAA446200119687 /* ImageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImageViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +111,8 @@
 				A47F5BD81AA7E4640009B059 /* ImageListTableViewController.m */,
 				A47F5BC51AA67F9C0009B059 /* ImageTableViewController.h */,
 				A47F5BC61AA67F9C0009B059 /* ImageTableViewController.m */,
+				A4EC9B671AAA446200119687 /* ImageViewController.h */,
+				A4EC9B681AAA446200119687 /* ImageViewController.m */,
 				A47F5BC81AA681970009B059 /* FlickrFetcher.h */,
 				A47F5BC91AA681970009B059 /* FlickrFetcher.m */,
 				A47F5BCE1AA6A2020009B059 /* Place.h */,
@@ -254,6 +259,7 @@
 				A47F5BD61AA78D190009B059 /* UIColor+FlatUI.m in Sources */,
 				A47F5BD01AA6A2020009B059 /* Place.m in Sources */,
 				A47F5B911AA67A820009B059 /* main.m in Sources */,
+				A4EC9B691AAA446200119687 /* ImageViewController.m in Sources */,
 				A47F5BC71AA67F9C0009B059 /* ImageTableViewController.m in Sources */,
 				A47F5BD91AA7E4640009B059 /* ImageListTableViewController.m in Sources */,
 			);
@@ -448,6 +454,7 @@
 				A47F5BB31AA67A820009B059 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A47F5BB41AA67A820009B059 /* Build configuration list for PBXNativeTarget "PlacesTests" */ = {
 			isa = XCConfigurationList;
@@ -456,6 +463,7 @@
 				A47F5BB61AA67A820009B059 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
